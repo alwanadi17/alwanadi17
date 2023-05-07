@@ -9,7 +9,9 @@
 My Profile
 -------------------------------
 Username: alwanadi17
-WhoAmI: College student, an apprentice
+WhoAmI: College student, volunteer in faculty library
+Institute: Semarang University - Information System
+Pronouns: What?
 OS: Windows 11 Home Single Language x86_64
 Location: Semarang
 Languages: C++, Java
