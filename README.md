@@ -1,6 +1,6 @@
 <img align="left" src="img/geraltOnRoach.png"/>
 
-```
+```csharp
 My Profile
 -------------------------------
 Username: alwanadi17
@@ -13,4 +13,4 @@ Favorite games: The Witcher 3, RDR 2
 ```
 ---------------------------------------------------------------------------------------------------------------------------
 
-[![Codewars](https://www.codewars.com/users/alwanadi17/badges/large?logo=true)](https://www.codewars.com/users/alwanadi17)
+[![Codewars](https://www.codewars.com/users/alwanadi17/badges/medium?logo=true)](https://www.codewars.com/users/alwanadi17)
