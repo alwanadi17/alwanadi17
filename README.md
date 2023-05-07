@@ -1,4 +1,4 @@
-<img align="left" src="img/geraltOnRoach.png"/>
+<img align="left" src="img/geraltOnRoach.png" width="130px"/>
 
 ```csharp
 My Profile
@@ -13,4 +13,4 @@ Favorite games: The Witcher 3, RDR 2
 ```
 ---------------------------------------------------------------------------------------------------------------------------
 
-[![Codewars](https://www.codewars.com/users/alwanadi17/badges/medium?logo=true)](https://www.codewars.com/users/alwanadi17)
+[![Codewars](URL:https://www.codewars.com/users/alwanadi17/badges/small)](https://www.codewars.com/users/alwanadi17)
