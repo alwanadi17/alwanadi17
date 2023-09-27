@@ -14,7 +14,7 @@ Institute: Semarang University - Information System
 Pronouns: What?
 OS: Windows 11 Home Single Language x86_64
 Location: Semarang
-Languages: C++, Java
+Languages: C++, Java, Python
 Hobbies: Watching movie, memes, playing MMORPG
 Like to: Talk with some folks, swimming
 Favorite games: The Witcher 3, RDR 2, Monster Hunter Rais
