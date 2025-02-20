@@ -17,5 +17,5 @@ Location: Semarang
 Languages: C++, Java, Python
 Hobbies: Watching movie, memes, playing MMORPG
 Like to: Talk with some folks, swimming
-Favorite games: The Witcher 3, RDR 2, Monster Hunter Rise
+Favorite games: Monster Hunter Series, The Witcher 3, RDR 2
 ```
