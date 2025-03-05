@@ -11,11 +11,10 @@ My Profile
 Username: alwanadi17
 WhoAmI: College student, volunteer in faculty library
 Institute: Semarang University - Information System
-Pronouns: What?
 OS: Windows 11 Home Single Language x86_64
 Location: Semarang
-Languages: C++, Java, Python
-Hobbies: Watching movie, memes, playing MMORPG
-Like to: Talk with some folks, swimming
+Languages: C++, Python(main)
+Hobbies: Watching movie, playing MMORPG
+Like to: Talk with some folks, swimming, learn something new
 Favorite games: Monster Hunter Series, The Witcher 3, RDR 2
 ```
